@@ -1,0 +1,1 @@
+# D4-Triality-3Cycle-Particle-Model

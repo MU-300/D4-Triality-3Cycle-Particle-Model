@@ -20,13 +20,13 @@
 
 This repository presents a discrete geometric and algebraic model for the three-generation structure of the Standard Model. Rather than treating the three fermion generations as redundant copies in continuous spacetime, this framework derives them directly from the **three-fold outer automorphism ($C_3$ cycle) of the $D_4$ Dynkin diagram** and its realization inside the **24-cell (Hurwitz unit quaternions)**.
 
-本リポジトリは、素粒子標準模型における「3世代構造」の離散的・幾何学的な起源を示す概念モデルです。3つのフェルミオン世代を連続時空上の単なる重複コピーとして扱うのではなく、**$D_4$ ディンキン図形が持つ唯一の3回外部自己同型（ $C_3$ 巡回対称性）**と、その4次元球面 $S^3$ 上の**正24胞体（フルヴィッツ単元）**への射影から必然的に導かれる離散サイクルとして記述します。
+本リポジトリは、素粒子標準模型における「3世代構造」の離散的・幾何学的な起源を示す概念モデルです。3つのフェルミオン世代を連続時空上の単なる重複コピーとして扱うのではなく、** $D_4$  ディンキン図形が持つ唯一の3回外部自己同型（ $C_3$ 巡回対称性）**と、その4次元球面 $S^3$ 上の**正24胞体（フルヴィッツ単元）**への射影から必然的に導かれる離散サイクルとして記述します。
 
 ---
 
-## 2. Algebraic Engine: $D_4$ Triality & $C_3$ Cycling / 代数エンジン：$D_4$ トライアリティと3巡回
+## 2. Algebraic Engine: $D_4$ Triality & $C_3$ Cycling / 代数エンジン： $D_4$  トライアリティと3巡回
 
-Among all simple Lie algebras and Coxeter groups, $D_4$ ($\mathfrak{so}(8)$) is unique in possessing a symmetric three-pronged Dynkin diagram, yielding an outer automorphism group isomorphic to $S_3$ containing the cyclic rotation $C_3$:
+Among all simple Lie algebras and Coxeter groups, $D_4$ ( $\mathfrak{so}(8)$ ) is unique in possessing a symmetric three-pronged Dynkin diagram, yielding an outer automorphism group isomorphic to $S_3$ containing the cyclic rotation $C_3$:
 
 すべての単純リー代数およびコクセター群の中で、 $D_4$ のみが中心ノードから3本の腕が完全に対称に伸びるディンキン図形を持ち、その外部自己同型群 $S_3$ の部分群として**3巡回群 $C_3$** を内包します。
 
